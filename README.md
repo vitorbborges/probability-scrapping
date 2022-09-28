@@ -4,3 +4,5 @@ This repository contains the code used to scrape the website [Quizlet](https://q
 
 An example of solution scrapped by me is the following:
 
+![chapter%201%20exercises%201.png](https://github.com/vitorbborges/probability-scrapping/raw/main/Solutions/Chapter%201%20Probability%20Spaces/chapter%201%20exercises%201.png)
+
